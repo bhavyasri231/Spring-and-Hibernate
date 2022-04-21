@@ -1,0 +1,9 @@
+
+[
+java:S1172">Remove these unused method parameters "theAccount", "vipFlag".(ËæŸ8á­™Ô„0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¾Ì½òùÿÿÿÿ8ã­™Ô„0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¤Ÿ…&8æ­™Ô„0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(’™èà8ê­™Ô„0
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ı§8í­™Ô„0
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(Õ½âºıÿÿÿÿ8ğ­™Ô„0
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(§ùâùÿÿÿÿ8ó­™Ô„0
