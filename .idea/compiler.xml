@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SpringAOP-Read-Jointpoint" />
+        <module name="SpringAOP" />
+        <module name="SpringAOP-AfterFinally" />
+        <module name="SpringAOP-AfterReturning" />
+        <module name="SpringAOP-AfterThrowing" />
+        <module name="SpringAOP-Pointcut-Declarations-Combo" />
+        <module name="SpringAOP-Pointcut-Declarations" />
+        <module name="SpringAOP-Pointcut-Order-Aspects" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
